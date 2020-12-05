@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Fibonacci Philological Model of the Oration on the Dignity of Man",
+      "tensorShape": [
+        268,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/seanjudelyons/EmbeddingPico/main/vecsLatin611.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/seanjudelyons/EmbeddingPico/main/metaLatin611..tsv"
+    }
+  ]
+}
